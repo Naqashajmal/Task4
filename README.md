@@ -1,5 +1,5 @@
 # SQL-Based Analysis of Product Sales 📊
-This project was completed as part of my Software Engineering Internship (Task 5).
+This project was completed as part of my Data Analytics Internship at Elevvo (Task 4).
 
 ## 🚀 Objectives
 * Analyze product sales using the Chinook relational database.
