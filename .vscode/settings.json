@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Chinook_Kaggle",
+            "database": "Chinook_Sqlite.sqlite"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
